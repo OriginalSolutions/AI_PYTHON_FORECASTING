@@ -6,5 +6,3 @@ pandas==1.2.0
 Requests==2.28.2
 scikit_learn==1.0
 tensorflow==2.11.0
-
-
