@@ -1,5 +1,6 @@
 # AI_PYTHON_FORECASTING
 "ONE" TIME SERIES FORECASTING
+BACKTESTING
 
 Forecasting using the tensorflow library, using a proprietary AI model.
 This model - is an attempt to build a model in the case where it is possible to use only a very small amount of data, i.e. a short time series containing up to 1000 rows.
